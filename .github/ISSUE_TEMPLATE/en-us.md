@@ -1,3 +1,12 @@
+---
+name: Localization - [English (United States)][EN] <en-us.cfg> 
+about: Create a specific translation request
+title: 'Localization - [English (United States)][EN] <en-us.cfg> '
+labels: localization, help-wanted
+assignees: 'zer0Kerbal'
+
+---
+
 Localization - [English (United States)][EN] <en-us.cfg>  
 
 ### GameData
