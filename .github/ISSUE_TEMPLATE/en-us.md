@@ -1,5 +1,5 @@
 ---
-name: Localization - [English (United States)][EN] <en-us.cfg> 
+name: Localization - English (United States) <en-us.cfg> 
 about: Create a specific translation request
 title: 'Localization - [English (United States)][EN] <en-us.cfg> '
 labels: localization, help wanted

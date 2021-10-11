@@ -1,5 +1,5 @@
 ---
-name: Localization - [Polish (Polski)][PO] <pl.cfg>   
+name: Localization - Polish (Polski) <pl.cfg>   
 about: Create a specific translation request
 title: 'Localization - [Polish (Polski)][PO] <pl.cfg>   '
 labels: localization, help wanted

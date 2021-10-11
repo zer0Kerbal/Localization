@@ -1,5 +1,5 @@
 ---
-name: Localization - [Italian (Italiano)][IT] <it-it.cfg> 
+name: Localization - Italian (Italiano) <it-it.cfg> 
 about: Create a specific translation request
 title: 'Localization - [Italian (Italiano)][IT] <it-it.cfg> '
 labels: localization, help wanted

@@ -1,5 +1,5 @@
 ---
-name: Localization - [Swedish (Svenska)][SW] <sw-sw.cfg>   
+name: Localization - Swedish (Svenska) <sw-sw.cfg>   
 about: Create a specific translation request
 title: 'Localization - [Swedish (Svenska)][SW] <sw-sw.cfg>   '
 labels: localization, help wanted

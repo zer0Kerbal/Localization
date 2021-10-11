@@ -1,5 +1,5 @@
 ---
-name: Localization - [Taiwanese (国语)][TW] <zh-tw.cfg>  
+name: Localization - Taiwanese (国语) <zh-tw.cfg>  
 about: Create a specific translation request
 title: 'Localization - [Taiwanese (国语)][TW] <zh-tw.cfg>  '
 labels: localization, help wanted

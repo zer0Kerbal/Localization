@@ -1,5 +1,5 @@
 ---
-name: Localization - [Brazil Portuguese (Português Brasil)][BR] <pt-br.cfg>  
+name: Localization - Brazil Portuguese (Português Brasil) <pt-br.cfg>  
 about: Create a specific translation request
 title: 'Localization - [Brazil Portuguese (Português Brasil)][BR] <pt-br.cfg>  '
 labels: localization, help wanted

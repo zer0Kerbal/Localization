@@ -1,5 +1,5 @@
 ---
-name: Localization - [Korean (한국어)][KO] <ko.cfg> 
+name: Localization - Korean (한국어) <ko.cfg> 
 about: Create a specific translation request
 title: 'Localization - [Korean (한국어)][KO] <ko.cfg> '
 labels: localization, help wanted

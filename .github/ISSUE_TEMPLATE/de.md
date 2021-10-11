@@ -1,7 +1,7 @@
 ---
-name: Localization - [German (Deutsch)][DE]  <de.cfg> 
+name: Localization - German (Deutsch) <de.cfg> 
 about: Create a specific translation request
-title: 'Localization - [German (Deutsch)][DE]  <de.cfg> '
+title: 'Localization - [German (Deutsch)][DE] <de.cfg> '
 labels: localization, help wanted
 assignees: 'zer0Kerbal'
 milestone: 'Localization - German (Deutsch) <de.cfg>'
@@ -15,7 +15,7 @@ Localization - [German (Deutsch)][DE] <de.cfg>
 
 ### Translation
 
-- [ ] [![Deutsch][DE]][DE] [German (Deutsch)][DE]  <de.cfg>
+- [ ] [![Deutsch][DE]][DE] [German (Deutsch)][DE] <de.cfg>
 
 [DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/German-flag-sm.png "Deutsch"
 

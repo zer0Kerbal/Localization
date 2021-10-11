@@ -1,5 +1,5 @@
 ---
-name: Localization - [Mexican (Mexicano)][ME] <es-mx.cfg> 
+name: Localization - Mexican (Mexicano) <es-mx.cfg> 
 about: Create a specific translation request
 title: 'Localization - [Mexican (Mexicano)][ME] <es-mx.cfg> '
 labels: localization, help wanted

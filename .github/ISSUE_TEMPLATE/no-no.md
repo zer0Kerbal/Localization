@@ -1,5 +1,5 @@
 ---
-name: Localization - [Norwegian (Norsk)][NO] <no-no.cfg>   
+name: Localization - Norwegian (Norsk) <no-no.cfg>   
 about: Create a specific translation request
 title: 'Localization - [Norwegian (Norsk)][NO] <no-no.cfg>   '
 labels: localization, help wanted

@@ -1,5 +1,5 @@
 ---
-name: Localization - [Simplified Chinese (简体中文)][CN] <zh-cn.cfg> 
+name: Localization - Simplified Chinese (简体中文) <zh-cn.cfg> 
 about: Create a specific translation request
 title: 'Localization - [Simplified Chinese (简体中文)][CN] <zh-cn.cfg> '
 labels: localization, help wanted

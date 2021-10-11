@@ -1,5 +1,5 @@
 ---
-name: Localization - [French (Français)][FR] <fr-fr.cfg> 
+name: Localization - French (Français) <fr-fr.cfg> 
 about: Create a specific translation request
 title: 'Localization - [French (Français)][FR] <fr-fr.cfg> '
 labels: localization, help wanted

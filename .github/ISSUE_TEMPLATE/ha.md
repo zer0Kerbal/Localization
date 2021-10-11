@@ -1,5 +1,5 @@
 ---
-name: Localization - [Hawai'ian(ʻŌlelo Pākē)][HA] <ha.cfg> 
+name: Localization - Hawai'ian(ʻŌlelo Pākē) <ha.cfg> 
 about: Create a specific translation request
 title: 'Localization - [Hawai'ian(ʻŌlelo Pākē)][HA] <ha.cfg> '
 labels: localization, help wanted

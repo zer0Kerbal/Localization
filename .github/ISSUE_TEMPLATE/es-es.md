@@ -1,5 +1,5 @@
 ---
-name: Localization - [Spanish (Español)][ES] <es-es.cfg> 
+name: Localization - Spanish (Español) <es-es.cfg> 
 about: Create a specific translation request
 title: 'Localization - [Spanish (Español)][ES] <es-es.cfg> '
 labels: localization, help wanted

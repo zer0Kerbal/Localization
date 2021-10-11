@@ -1,5 +1,5 @@
 ---
-name: Localization - [Russian (Русский)][RU] <ru.cfg> 
+name: Localization - Russian (Русский) <ru.cfg> 
 about: Create a specific translation request
 title: 'Localization - [Russian (Русский)][RU] <ru.cfg> '
 labels: localization, help wanted

@@ -1,5 +1,5 @@
 ---
-name: Localization - [Dutch (Nederlands)][NL] <nl-nl.cfg>  
+name: Localization - Dutch (Nederlands) <nl-nl.cfg>  
 about: Create a specific translation request
 title: 'Localization - [Dutch (Nederlands)][NL] <nl-nl.cfg>  '
 labels: localization, help wanted

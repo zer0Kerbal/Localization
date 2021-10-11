@@ -1,5 +1,5 @@
 ---
-name: Localization - [Japanese(日本語)][JA] <ja.cfg> 
+name: Localization - Japanese(日本語) <ja.cfg> 
 about: Create a specific translation request
 title: 'Localization - [Japanese(日本語)][JA] <ja.cfg> '
 labels: localization, help wanted
