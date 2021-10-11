@@ -2,9 +2,9 @@
 name: Localization - [English (United States)][EN] <en-us.cfg> 
 about: Create a specific translation request
 title: 'Localization - [English (United States)][EN] <en-us.cfg> '
-labels: localization, help-wanted
+labels: localization, help wanted
 assignees: 'zer0Kerbal'
-
+milestone: English (United States) <en-us.cfg> 
 ---
 
 Localization - [English (United States)][EN] <en-us.cfg>  
