@@ -1,3 +1,12 @@
+---
+name: Localization - [Hawai'ian(ʻŌlelo Pākē)][HA] <ha.cfg> 
+about: Create a specific translation request
+title: 'Localization - [Hawai'ian(ʻŌlelo Pākē)][HA] <ha.cfg> '
+labels: localization, help wanted
+assignees: 'zer0Kerbal'
+milestone: 'Localization - Hawai'ian(ʻŌlelo Pākē) <ha.cfg>'
+---
+
 Localization - [Hawai'ian(ʻŌlelo Pākē)][HA] <ha.cfg> 
 
 ### GameData

@@ -1,3 +1,12 @@
+---
+name: Localization - [Brazil Portuguese (Português Brasil)][BR] <pt-br.cfg>  
+about: Create a specific translation request
+title: 'Localization - [Brazil Portuguese (Português Brasil)][BR] <pt-br.cfg>  '
+labels: localization, help wanted
+assignees: 'zer0Kerbal'
+milestone: 'Localization - Brazil Portuguese (Português Brasil) <pt-br.cfg> '
+---
+
 Localization - [Brazil Portuguese (Português Brasil)][BR] <pt-br.cfg> 
 
 ### GameData

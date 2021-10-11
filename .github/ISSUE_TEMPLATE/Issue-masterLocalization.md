@@ -1,3 +1,12 @@
+---
+name: Localization - Master 
+about: Create the general translation request
+title: 'Localization - Master '
+labels: localization, help wanted
+assignees: 'zer0Kerbal'
+milestone: 'Localization - complete>'
+---
+
 Localization - Master
 
 🎏

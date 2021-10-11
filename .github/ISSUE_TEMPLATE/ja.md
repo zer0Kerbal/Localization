@@ -1,3 +1,12 @@
+---
+name: Localization - [Japanese(日本語)][JA] <ja.cfg> 
+about: Create a specific translation request
+title: 'Localization - [Japanese(日本語)][JA] <ja.cfg> '
+labels: localization, help wanted
+assignees: 'zer0Kerbal'
+milestone: 'Localization - Japanese(日本語) <ja.cfg>'
+---
+
 Localization - [Japanese(日本語)][JA] <ja.cfg>  
 
 ### GameData

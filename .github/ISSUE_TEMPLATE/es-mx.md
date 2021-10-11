@@ -1,3 +1,12 @@
+---
+name: Localization - [Mexican (Mexicano)][ME] <es-mx.cfg> 
+about: Create a specific translation request
+title: 'Localization - [Mexican (Mexicano)][ME] <es-mx.cfg> '
+labels: localization, help wanted
+assignees: 'zer0Kerbal'
+milestone: 'Localization - Mexican (Mexicano) <es-mx.cfg>'
+---
+
 Localization - [Mexican (Mexicano)][ME] <es-mx.cfg>
 
 ### GameData

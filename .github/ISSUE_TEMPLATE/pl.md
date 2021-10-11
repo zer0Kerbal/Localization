@@ -1,3 +1,12 @@
+---
+name: Localization - [Polish (Polski)][PO] <pl.cfg>   
+about: Create a specific translation request
+title: 'Localization - [Polish (Polski)][PO] <pl.cfg>   '
+labels: localization, help wanted
+assignees: 'zer0Kerbal'
+milestone: 'Localization - Polish (Polski) <pl.cfg>  '
+---
+
 Localization - [Polish (Polski)][PO] <pl.cfg>  
 
 ### GameData

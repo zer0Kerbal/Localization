@@ -1,3 +1,12 @@
+---
+name: Localization - [Dutch (Nederlands)][NL] <nl-nl.cfg>  
+about: Create a specific translation request
+title: 'Localization - [Dutch (Nederlands)][NL] <nl-nl.cfg>  '
+labels: localization, help wanted
+assignees: 'zer0Kerbal'
+milestone: 'Localization - Dutch (Nederlands) <nl-nl.cfg> '
+---
+
 Localization - [Dutch (Nederlands)][NL] <nl-nl.cfg> 
 
 ### GameData

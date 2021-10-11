@@ -1,3 +1,12 @@
+---
+name: Localization - [Swedish (Svenska)][SW] <sw-sw.cfg>   
+about: Create a specific translation request
+title: 'Localization - [Swedish (Svenska)][SW] <sw-sw.cfg>   '
+labels: localization, help wanted
+assignees: 'zer0Kerbal'
+milestone: 'Localization - Swedish (Svenska) <sw-sw.cfg>  '
+---
+
 Localization - [Swedish (Svenska)][SW] <sw-sw.cfg>    
 
 ### GameData

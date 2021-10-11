@@ -1,3 +1,12 @@
+---
+name: Localization - [Simplified Chinese (简体中文)][CN] <zh-cn.cfg> 
+about: Create a specific translation request
+title: 'Localization - [Simplified Chinese (简体中文)][CN] <zh-cn.cfg> '
+labels: localization, help wanted
+assignees: 'zer0Kerbal'
+milestone: 'Localization - Simplified Chinese (简体中文) <zh-cn.cfg>'
+---
+
 Localization - [Simplified Chinese (简体中文)][CN] <zh-cn.cfg>
 
 ### GameData

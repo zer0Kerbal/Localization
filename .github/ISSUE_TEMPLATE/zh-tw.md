@@ -1,3 +1,12 @@
+---
+name: Localization - [Taiwanese (国语)][TW] <zh-tw.cfg>  
+about: Create a specific translation request
+title: 'Localization - [Taiwanese (国语)][TW] <zh-tw.cfg>  '
+labels: localization, help wanted
+assignees: 'zer0Kerbal'
+milestone: 'Localization - Taiwanese (国语) <zh-tw.cfg> '
+---
+
 Localization - [Taiwanese (国语)][TW] <zh-tw.cfg> 
 
 ### GameData

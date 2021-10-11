@@ -1,3 +1,12 @@
+---
+name: Localization - [Spanish (Español)][ES] <es-es.cfg> 
+about: Create a specific translation request
+title: 'Localization - [Spanish (Español)][ES] <es-es.cfg> '
+labels: localization, help wanted
+assignees: 'zer0Kerbal'
+milestone: 'Localization - Spanish (Español) <es-es.cfg>'
+---
+
 Localization - [Spanish (Español)][ES] <es-es.cfg>
 
 ### GameData

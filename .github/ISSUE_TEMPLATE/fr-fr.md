@@ -1,3 +1,12 @@
+---
+name: Localization - [French (Français)][FR] <fr-fr.cfg> 
+about: Create a specific translation request
+title: 'Localization - [French (Français)][FR] <fr-fr.cfg> '
+labels: localization, help wanted
+assignees: 'zer0Kerbal'
+milestone: 'Localization - French (Français) <fr-fr.cfg>'
+---
+
 Localization - [French (Français)][FR] <fr-fr.cfg> 
 
 ### GameData

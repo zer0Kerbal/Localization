@@ -1,3 +1,12 @@
+---
+name: Localization - [Italian (Italiano)][IT] <it-it.cfg> 
+about: Create a specific translation request
+title: 'Localization - [Italian (Italiano)][IT] <it-it.cfg> '
+labels: localization, help wanted
+assignees: 'zer0Kerbal'
+milestone: 'Localization - Italian (Italiano) <it-it.cfg>  '
+---
+
 Localization - [Italian (Italiano)][IT] <it-it.cfg> 
 
 ### GameData

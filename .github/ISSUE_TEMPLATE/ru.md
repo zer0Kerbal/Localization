@@ -1,3 +1,12 @@
+---
+name: Localization - [Russian (Русский)][RU] <ru.cfg> 
+about: Create a specific translation request
+title: 'Localization - [Russian (Русский)][RU] <ru.cfg> '
+labels: localization, help wanted
+assignees: 'zer0Kerbal'
+milestone: 'Localization - Russian (Русский) <ru.cfg>'
+---
+
 Localization - [Russian (Русский)][RU] <ru.cfg>
 
 ### GameData

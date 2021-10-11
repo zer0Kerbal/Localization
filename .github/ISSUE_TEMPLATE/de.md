@@ -1,4 +1,13 @@
-Localization - [German (Deutsch)][DE]  <de.cfg>
+---
+name: Localization - [German (Deutsch)][DE]  <de.cfg> 
+about: Create a specific translation request
+title: 'Localization - [German (Deutsch)][DE]  <de.cfg> '
+labels: localization, help wanted
+assignees: 'zer0Kerbal'
+milestone: 'Localization - German (Deutsch) <de.cfg>'
+---
+
+Localization - [German (Deutsch)][DE] <de.cfg>
 
 ### GameData
 
