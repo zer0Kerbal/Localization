@@ -1,3 +1,5 @@
+<!-- CC BY-NC-ND 3.0 Unported by zer0kerbal-->
+
 ## These localizations for KSP and its DLC's are available through Steam:
 
 - [ ] [![American English][EN]][EN] [American English][EN] <us-en.cfg>  
